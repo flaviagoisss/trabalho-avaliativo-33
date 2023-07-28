@@ -1,0 +1,27 @@
+body{
+    background-image: url('ieei.jpg');
+}
+    
+      button{
+        border: 1px solid rgb(139, 143, 90);
+        border-radius: 5px;
+        background-color: rgb(227, 248, 255);
+        color: #000000;
+        text-align: center;
+        padding: 5px;
+      }
+.heart{
+    background-image: url('coracao-72.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    width: 670px;
+    height: 515px;
+
+    text-align: center;
+
+    margin-top: 50px;
+
+    padding-top: 100px;
+}
+      
